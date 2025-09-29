@@ -89,9 +89,6 @@ Multiple students are trying to choose between different properties, or make gro
 
 ## Product Vision Statement
 <<<<<<< HEAD
-
-=======
->>>>>>> 5dbcc5d (updated the vision statement)
 At Roomway, we make it safe and simple to find like-minded roommates, so moving out becomes a step towards independence, comfort, and peace of mind. 
 
 ## User Requirements
