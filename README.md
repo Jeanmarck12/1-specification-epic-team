@@ -88,7 +88,6 @@ Multiple students are trying to choose between different properties, or make gro
 - **Sabine:** It is naturally a race for some of these apartments. But also you need to be able to discuss the pros and cons with roommates as well.
 
 ## Product Vision Statement
-
 At Roomway, we make it safe and simple to find like-minded roommates, so moving out becomes a step towards independence, comfort, and peace of mind. 
 
 ## User Requirements
