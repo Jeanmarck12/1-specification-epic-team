@@ -14,8 +14,7 @@ A little exercise to get started with the specification phase of the software de
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
 ## Product Vision Statement
-
-See instructions. Delete this line and place your Product Vision Statement here.
+At Roomway, we make it safe and simple to find like-minded roommates, so moving out becomes a step towards independence, comfort, and peace of mind. 
 
 ## User Requirements
 
